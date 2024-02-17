@@ -89,6 +89,9 @@
 }
 .midnight-party-section{
     text-align: center;
+    width: 650px;
+    padding-top: 130px;
+    padding-left: 100px;
 }
 .midnight-party-title{
 color: white;
@@ -105,13 +108,26 @@ font-size: 18px;
 font-family: Inter;
 font-weight: 400;
 line-height: 30px;
-word-wrap: break-word
-};
+word-wrap: break-word;
+margin-bottom: 20px
+}
 .midnight-button{
-color: white;
+padding: 5px 5px;
 font-size: 20px;
 font-family: Inter;
 font-weight: 700;
 text-transform: uppercase;
-word-wrap: break-word
+word-wrap: break-word;
+border-radius: 5px;
+}
+/* the section gift */
+
+.the-best-gifts{
+    width: 1086px;
+    margin: 0 auto;
+}
+.the-gifts-img{
+    width: 350px;
+    margin-right: 5px;
+    margin-bottom: 5px;
 }
