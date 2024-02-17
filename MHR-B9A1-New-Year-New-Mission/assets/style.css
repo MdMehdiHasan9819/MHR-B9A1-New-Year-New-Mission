@@ -23,6 +23,7 @@
     justify-content: center;
     align-items: center;
     justify-items: center;
+    padding-top: 100px;
 }
 .banner-title{
     color: white;
@@ -81,7 +82,7 @@
     background-image: url(../media/Vectorrr.png);
     background-repeat: no-repeat;
     width: 1086px;
-    height: 500px;
+    height: 600px;
     margin: 0 auto;
     border-radius: 16px;
     margin-top: 50px;
@@ -126,8 +127,43 @@ border-radius: 5px;
     width: 1086px;
     margin: 0 auto;
 }
+.best-gift-title{
+color: #FF0000;
+font-size: 24px;
+font-family: Inter;
+font-weight: 500;
+word-wrap: break-word
+}
+
+.Portfolio-title{
+color: #070211;
+font-size: 48px;
+font-family: Merriweather;
+font-weight: 900;
+text-transform: capitalize;
+word-wrap: break-word
+}
+
+.Portfolio-gifts{
+    margin: 50px 0px;
+}
+
+.portfolio-des{
+color: rgba(7, 2, 17, 0.60);
+font-size: 20px;
+font-family: Inter;
+font-weight: 400;
+line-height: 32px;
+word-wrap: break-word;
+margin: 15px 0px;
+}
+.portfolio-img{
+    margin-bottom: 100px;
+}
+
 .the-gifts-img{
     width: 350px;
+    height: 350px;
     margin-right: 5px;
     margin-bottom: 5px;
 }
