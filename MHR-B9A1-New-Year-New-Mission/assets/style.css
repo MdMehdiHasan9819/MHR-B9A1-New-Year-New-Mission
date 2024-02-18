@@ -197,7 +197,8 @@ font-size: 20px;
 font-family: Inter;
 font-weight: 400;
 line-height: 32px;
-word-wrap: break-word
+word-wrap: break-word;
+margin: 15px 0px;
 }
 .form-box{
     margin: 0 auto;
@@ -225,4 +226,24 @@ word-wrap: break-word
     border: none;
     border-radius: 5px;
     background: #FF0000;
+}
+
+/* footer section css */
+.footer-head{
+    background-color: #070211;
+    height: 450px;
+}
+.footer-content{
+    display: flex;
+    justify-content: space-between;
+    width: 1086px;
+    margin: 0 auto;
+}
+.footer-title{
+    color: white;
+font-size: 24px;
+font-family: Inter;
+font-weight: 500;
+line-height: 40px;
+word-wrap: break-word
 }
